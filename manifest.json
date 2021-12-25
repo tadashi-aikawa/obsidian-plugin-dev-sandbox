@@ -1,7 +1,7 @@
 {
   "id": "dev-various-complements",
   "name": "Various Complements for Developer",
-  "version": "3.5.1.dev2",
+  "version": "3.5.1.dev3",
   "minAppVersion": "0.12.7",
   "description": "This plugin enables you to complement input in markdown files",
   "author": "tadashi-aikawa",
